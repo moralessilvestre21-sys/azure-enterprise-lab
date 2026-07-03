@@ -37,7 +37,7 @@ The objective is to gain hands on experience with cloud administration, networki
 
 - [x] Azure account created
 - [x] Resource Group created
-- [ ] Virtual Network
+- [x] Virtual Network created
 - [ ] Network Security Group
 - [ ] Windows Virtual Machine
 - [ ] Microsoft Entra ID
