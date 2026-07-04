@@ -33,14 +33,16 @@ The objective is to gain hands on experience with cloud administration, networki
 
 ---
 
-## Current Status
-
-- [x] Azure account created
-- [x] Resource Group created
-- [x] Virtual Network created
-- [ ] Network Security Group
-- [ ] Windows Virtual Machine
-- [ ] Microsoft Entra ID
-- [ ] Storage Account
-- [ ] Azure Monitor
-- [ ] Documentation Complete
+Azure Enterprise Lab
+│
+├── ✅ Azure Account
+├── ✅ Resource Group
+├── ✅ Virtual Network
+├── ✅ Network Security Group
+├── ✅ Windows Virtual Machine
+├── ⏳ Connect via Remote Desktop
+├── ⏳ Microsoft Entra ID
+├── ⏳ RBAC
+├── ⏳ Storage Account
+├── ⏳ Azure Monitor
+└── ⏳ Final Documentation
