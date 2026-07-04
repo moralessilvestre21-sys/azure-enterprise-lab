@@ -41,10 +41,9 @@ The objective is to gain hands on experience with cloud administration, networki
 - [x] Virtual Network (VNet) deployed
 - [x] Network Security Group (NSG) deployed
 - [x] Windows Virtual Machine deployed
-- [ ] Remote Desktop connection established
+- [x] Remote Desktop (RDP) configured
 - [ ] Microsoft Entra ID configuration
 - [ ] Role-Based Access Control (RBAC)
 - [ ] Azure Storage Account
-- [ ] Azure Monitor & Log Analytics
-- [ ] Architecture diagram
-- [ ] Project documentation completed
+- [ ] Azure Monitor
+- [ ] Documentation Complete
