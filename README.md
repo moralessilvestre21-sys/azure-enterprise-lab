@@ -33,16 +33,18 @@ The objective is to gain hands on experience with cloud administration, networki
 
 ---
 
-Azure Enterprise Lab
-│
-├── ✅ Azure Account
-├── ✅ Resource Group
-├── ✅ Virtual Network
-├── ✅ Network Security Group
-├── ✅ Windows Virtual Machine
-├── ⏳ Connect via Remote Desktop
-├── ⏳ Microsoft Entra ID
-├── ⏳ RBAC
-├── ⏳ Storage Account
-├── ⏳ Azure Monitor
-└── ⏳ Final Documentation
+## Current Status
+
+- [x] Azure account created
+- [x] GitHub repository created
+- [x] Resource Group created
+- [x] Virtual Network (VNet) deployed
+- [x] Network Security Group (NSG) deployed
+- [x] Windows Virtual Machine deployed
+- [ ] Remote Desktop connection established
+- [ ] Microsoft Entra ID configuration
+- [ ] Role-Based Access Control (RBAC)
+- [ ] Azure Storage Account
+- [ ] Azure Monitor & Log Analytics
+- [ ] Architecture diagram
+- [ ] Project documentation completed
