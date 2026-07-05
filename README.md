@@ -40,8 +40,8 @@ The objective is to gain hands on experience with cloud administration, networki
 - [x] Virtual Network created
 - [x] Network Security Group
 - [x] Windows Virtual Machine
-- [x] Microsoft Entra ID (Users & Groups)
-- [ ] Role-Based Access Control (RBAC)
+- [x] Microsoft Entra ID
+- [x] Azure Role-Based Access Control (RBAC)
 - [ ] Storage Account
 - [ ] Azure Monitor
 - [ ] Documentation Complete
