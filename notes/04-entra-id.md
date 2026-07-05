@@ -26,3 +26,23 @@ Microsoft Entra ID is Microsoft's cloud-based identity and access management (IA
 - Microsoft Entra ID
 - User Administration
 - Security Groups
+
+
+# Microsoft Entra ID
+
+## Objective
+Implement centralized identity management using Microsoft Entra ID.
+
+## Why This Matters
+Centralized identity management enables secure authentication, group-based administration, and scalable permission management across Azure resources.
+
+## Tasks Completed
+- Created security users
+- Created departmental security groups
+- Assigned users to groups
+
+## Skills Demonstrated
+- Identity and Access Management (IAM)
+- User Administration
+- Group Management
+- Microsoft Entra ID
