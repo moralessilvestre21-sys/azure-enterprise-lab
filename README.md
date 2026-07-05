@@ -36,14 +36,12 @@ The objective is to gain hands on experience with cloud administration, networki
 ## Current Status
 
 - [x] Azure account created
-- [x] GitHub repository created
 - [x] Resource Group created
-- [x] Virtual Network (VNet) deployed
-- [x] Network Security Group (NSG) deployed
-- [x] Windows Virtual Machine deployed
-- [x] Remote Desktop (RDP) configured
-- [ ] Microsoft Entra ID configuration
+- [x] Virtual Network created
+- [x] Network Security Group
+- [x] Windows Virtual Machine
+- [x] Microsoft Entra ID (Users & Groups)
 - [ ] Role-Based Access Control (RBAC)
-- [ ] Azure Storage Account
+- [ ] Storage Account
 - [ ] Azure Monitor
 - [ ] Documentation Complete
