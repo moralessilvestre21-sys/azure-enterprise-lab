@@ -1,7 +1,7 @@
 ## What I Learned
 
 - Created an Azure Storage Account for cloud storage.
-- Created a Blob Container named `company-files`.
+- Created a Blob Container named "company-files".
 - Assigned the appropriate RBAC role (Storage Blob Data Owner) to access blob data.
 - Verified container access after Azure propagated the new permissions.
 - Uploaded a test file to validate successful storage operations.
