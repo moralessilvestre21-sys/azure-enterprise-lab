@@ -42,6 +42,6 @@ The objective is to gain hands on experience with cloud administration, networki
 - [x] Windows Virtual Machine
 - [x] Microsoft Entra ID
 - [x] Azure Role-Based Access Control (RBAC)
-- [ ] Storage Account
-- [ ] Azure Monitor
+- [x] Storage Account
+- [x] Azure Monitor
 - [ ] Documentation Complete
