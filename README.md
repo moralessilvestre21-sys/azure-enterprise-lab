@@ -20,11 +20,7 @@ The goal of this project was to gain hands-on experience deploying, securing, an
 
 ---
 
-## Architecture
 
-![Architecture Diagram](diagrams/azure-enterprise-architecture.png)
-
----
 
 ## Skills Demonstrated
 
