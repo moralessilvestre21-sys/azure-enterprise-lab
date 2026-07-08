@@ -35,20 +35,7 @@ The goal of this project was to gain hands-on experience deploying, securing, an
 - Cloud Security
 - Technical Documentation
 
----
 
-## Repository Structure
-
-```
-azure-enterprise-lab/
-│
-├── diagrams/
-├── screenshots/
-├── notes/
-├── deployment-notes.md
-├── troubleshooting.md
-└── README.md
-```
 
 ---
 
