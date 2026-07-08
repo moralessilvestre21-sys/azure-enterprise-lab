@@ -1,5 +1,26 @@
 # Azure Enterprise Lab
 
+
+## Project Highlights
+
+✔ Built a secure Azure environment from scratch
+
+✔ Implemented Microsoft Entra ID and RBAC
+
+✔ Applied the Principle of Least Privilege
+
+✔ Configured Azure Storage and Blob Containers
+
+✔ Monitored VM health using Azure Monitor
+
+✔ Reviewed security posture with Microsoft Defender for Cloud
+
+✔ Documented deployment steps, troubleshooting, and architecture
+
+---
+
+
+
 ## Overview
 
 This project demonstrates the deployment of a small Azure enterprise environment while following cloud security best practices.
