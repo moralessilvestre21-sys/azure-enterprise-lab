@@ -2,46 +2,85 @@
 
 ## Overview
 
-This project documents the deployment of a secure Microsoft Azure cloud environment built as part of my cloud and cybersecurity portfolio.
+This project demonstrates the deployment of a small Azure enterprise environment while following cloud security best practices.
 
-The objective is to gain hands on experience with cloud administration, networking, identity management, monitoring, and security while following enterprise best practices.
+The lab includes:
 
----
-
-## Technologies Used
-
-- Microsoft Azure
+- Resource Groups
+- Virtual Network (VNet)
+- Network Security Groups (NSGs)
+- Windows Virtual Machine
 - Microsoft Entra ID
-- Azure Virtual Network
-- Azure Virtual Machines
+- Role-Based Access Control (RBAC)
 - Azure Storage
 - Azure Monitor
-- Azure Log Analytics
-- GitHub
-- Markdown
+- Microsoft Defender for Cloud
+
+The goal of this project was to gain hands-on experience deploying, securing, and managing Azure resources while documenting each step as if working in a production environment.
 
 ---
 
-## Project Goals
+## Architecture
 
-- Deploy Azure infrastructure
-- Configure secure networking
-- Implement identity and access management
-- Apply security best practices
-- Document deployment and troubleshooting
-- Develop cloud administration skills
+![Architecture Diagram](diagrams/azure-enterprise-architecture.png)
 
 ---
 
-## Current Status
+## Skills Demonstrated
 
-- [x] Azure account created
-- [x] Resource Group created
-- [x] Virtual Network created
-- [x] Network Security Group
-- [x] Windows Virtual Machine
-- [x] Microsoft Entra ID
-- [x] Azure Role-Based Access Control (RBAC)
-- [x] Storage Account
-- [x] Azure Monitor
-- [ ] Documentation Complete
+- Azure Resource Management
+- Cloud Networking
+- Identity & Access Management
+- RBAC
+- Principle of Least Privilege
+- Windows VM Deployment
+- Azure Storage
+- Azure Monitoring
+- Cloud Security
+- Technical Documentation
+
+---
+
+## Repository Structure
+
+```
+azure-enterprise-lab/
+│
+├── diagrams/
+├── screenshots/
+├── notes/
+├── deployment-notes.md
+├── troubleshooting.md
+└── README.md
+```
+
+---
+
+## Documentation
+
+Detailed notes for every section can be found inside the **notes** folder.
+
+- Resource Groups
+- Virtual Networks
+- Network Security Groups
+- Microsoft Entra ID
+- RBAC
+- Storage Accounts
+- Azure Monitor
+- Microsoft Defender for Cloud
+
+---
+
+## Key Takeaways
+
+Throughout this project I learned how Azure resources work together to create a secure cloud environment.
+
+Some of the concepts reinforced throughout this lab include:
+
+- Authentication vs Authorization
+- Principle of Least Privilege
+- Network Segmentation
+- Identity Management
+- Storage Permissions
+- Monitoring and Alerting
+- Cloud Security Best Practices
