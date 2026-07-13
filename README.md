@@ -1,5 +1,4 @@
-# Azure Enterprise Lab
-
+# Microsoft Azure Enterprise Environment
 
 ## Project Highlights
 
